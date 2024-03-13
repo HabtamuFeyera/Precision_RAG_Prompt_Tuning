@@ -1,37 +1,11 @@
-# Precision RAG: Prompt Tuning For Building Enterprise Grade RAG Systems
+<h1 align="center">Hi 👋, I'm HabtamuFeyera</h1>
+<h3 align="center">I'm a passionate Generative AI Engineer with a background in machine learning and deep learning.</h3>
 
-## Overview
+- 🔭 I’m currently working on [Precision_RAG_Prompt_Tuning](https://github.com/HabtamuFeyera/Precision_RAG_Prompt_Tuning)
 
-Welcome to the Precision RAG project! This project focuses on developing advanced prompt tuning techniques tailored for building enterprise-grade Retrieval-Augmented Generation (RAG) systems. RAG systems combine the power of large-scale language models with information retrieval to generate contextually relevant responses to user queries.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Features
-
-- **Prompt Tuning Algorithms**: Implementation of state-of-the-art prompt tuning algorithms and techniques optimized for building enterprise-grade RAG systems.
-- **Evaluation Metrics**: Calculation of evaluation metrics to assess the effectiveness of prompts and the performance of RAG systems.
-- **Machine Learning Models**: Implementation of machine learning models for retrieval and generation tasks in RAG systems.
-- **Comprehensive Documentation**: Detailed documentation on project architecture, usage guides, and tutorials to help users understand and utilize the project effectively.
-
-## Project Structure
-
-The project follows a structured organization for easy navigation and understanding:
-
-- `data/`: Directory to store data used for prompt tuning and evaluation.
-- `src/`: Source code directory containing prompt tuning algorithms, evaluation scripts, machine learning models, and utility functions.
-- `tests/`: Directory containing unit tests and integration tests for the project.
-- `docs/`: Documentation directory with architecture diagrams, usage guides, and tutorials.
-- `examples/`: Directory containing example scripts and notebooks demonstrating the usage of the project.
-
-## Usage
-
-For detailed usage instructions, refer to the documentation in the `docs/` directory. Here are some basic usage steps:
-
-1. **Prepare Data**: Organize prompt datasets and evaluation data in the `data/` directory.
-2. **Implement Prompt Tuning**: Use the prompt tuning algorithms in the `src/prompt_tuning/` directory to fine-tune prompts for your RAG system.
-3. **Evaluate System Performance**: Utilize the evaluation scripts in the `src/evaluation/` directory to assess the effectiveness of prompts and the performance of your RAG system.
-4. **Explore Examples**: Refer to the example scripts and notebooks in the `examples/` directory for demonstrations and use case scenarios.
-
-## Contributing
-
-Contributions to the Precision RAG project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on GitHub.
-
-## License
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
